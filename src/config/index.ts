@@ -16,7 +16,7 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "LinkedIn", href: "https://www.linkedin.com/in/hanna-chajtur/" },
     { text: "GitHub", href: "https://github.com/Chajtur01" },
   ],
-  socialImage: "/hanna-og.png",
+  socialImage: "/hanna-og.jpg",
   canonicalURL: "https://yourdomain.com",
 };
 
@@ -70,21 +70,21 @@ export const SITE_CONTENT: SiteContent = {
   ],
   projects: [
     {
-      name: "Moodle AWS Deployment",
+      name: "CDE MiPymes Moodle AWS Deployment",
       summary: "Implemented AWS servers with Moodle platform for small business e-learning websites.",
-      image: "/moodle-cdemipymehn.png",
+      image: "/image.png",
     },
     {
-      name: "Online Game Real-Time Analytics",
+      name: "Gana Con El RAP, Honduras",
       summary:
         "Developed an online game for RAP organization, capturing real-time metrics for clients.",
-      image: "/ganaconelrap.png",
+      image: "/image.png",
     },
     {
-      name: "Zoleo / ElastTech Services",
+      name: "My Zoleo",
       summary:
         "Managed AWS and Azure infrastructure, CI/CD pipelines, security, and performance for a large-scale web project.",
-      image: "/zoleo.png",
+      image: "/image.png",
     },
   ],
   about: {
@@ -96,6 +96,6 @@ export const SITE_CONTENT: SiteContent = {
 
       Bilingual in English and Spanish, I combine strong communication skills with deep technical expertise.
     `,
-    image: "/hanna-big.jpg",
+    image: "/hanna-og.jpg",
   },
 };
