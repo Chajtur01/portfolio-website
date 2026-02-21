@@ -13,8 +13,8 @@ export const SITE_CONFIG: SiteConfig = {
     { text: "About", href: "#about" },
   ],
   socialLinks: [
-    { text: "LinkedIn", href: "https://www.linkedin.com/in/hannachajtur/" },
-    { text: "GitHub", href: "https://github.com/hannachajtur" },
+    { text: "LinkedIn", href: "https://www.linkedin.com/in/hanna-chajtur/" },
+    { text: "GitHub", href: "https://github.com/Chajtur01" },
   ],
   socialImage: "/hanna-og.png",
   canonicalURL: "https://yourdomain.com",
@@ -72,13 +72,13 @@ export const SITE_CONTENT: SiteContent = {
     {
       name: "Moodle AWS Deployment",
       summary: "Implemented AWS servers with Moodle platform for small business e-learning websites.",
-      image: "/moodle.png",
+      image: "/moodle-cdemipymehn.png",
     },
     {
       name: "Online Game Real-Time Analytics",
       summary:
         "Developed an online game for RAP organization, capturing real-time metrics for clients.",
-      image: "/rap-game.png",
+      image: "/ganaconelrap.png",
     },
     {
       name: "Zoleo / ElastTech Services",
